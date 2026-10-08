@@ -18,13 +18,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/dhruv151507-tech/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruv151507-tech/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/dhruv151507-tech/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruv151507-tech/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/dhruv151507-tech/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruv151507-tech/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/dhruv151507-tech/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
