@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhruv151507-tech/DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruv151507-tech/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruv151507-tech/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dhruv151507-tech/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruv151507-tech/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -82,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruv151507-tech/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dhruv151507-tech/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 <!---LeetCode Topics End-->
