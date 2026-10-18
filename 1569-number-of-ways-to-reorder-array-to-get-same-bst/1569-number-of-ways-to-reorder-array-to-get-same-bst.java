@@ -1,7 +1,6 @@
 class Solution {
 static final int MOD = 1_000_000_007;
     List<List<Long>> pt = new ArrayList<>();
-
     public int numOfWays(int[] nums) {
         int n = nums.length;
 
@@ -23,7 +22,7 @@ static final int MOD = 1_000_000_007;
             list.add(num);
         }
 
-        return (int) ((solve(list) - 1 + MOD) % MOD);
+        return (int) ((solve(list) - 1) % MOD);
 
     }
 
