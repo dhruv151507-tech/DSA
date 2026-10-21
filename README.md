@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/dhruv151507-tech/DSA/tree/main/0118-pascals-triangle/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhruv151507-tech/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0739-daily-temperatures](https://github.com/dhruv151507-tech/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruv151507-tech/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhruv151507-tech/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/dhruv151507-tech/DSA/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhruv151507-tech/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhruv151507-tech/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruv151507-tech/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhruv151507-tech/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhruv151507-tech/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruv151507-tech/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/dhruv151507-tech/DSA/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhruv151507-tech/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruv151507-tech/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -181,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/dhruv151507-tech/DSA/tree/main/0739-daily-temperatures/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhruv151507-tech/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
