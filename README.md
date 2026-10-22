@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhruv151507-tech/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruv151507-tech/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/dhruv151507-tech/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/dhruv151507-tech/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
