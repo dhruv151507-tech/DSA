@@ -10,20 +10,27 @@ class Solution {
         }
         return count==0;
     }
-    private void solve(int index, String temp, int len){
+    private void solve(int index, StringBuilder temp, int len){
         if(index==len){
-            if(isvalid(temp)) {ans.add(temp);
+            String s= temp.toString();
+            if(isvalid(s)) {
+                
+                ans.add(s);
             }
             return;
         }
 
-        
-        solve(index+1,temp + '(',len);
-        solve(index+1,temp + ')',len);
+        temp.append('(');
+        solve(index+1,temp ,len);
+        temp.deleteCharAt(temp.length()-1);
+
+        temp.append(')');
+        solve(index+1,temp,len);
+        temp.deleteCharAt(temp.length()-1);
     }
     public List<String> generateParenthesis(int n) {
        ans.clear();
-        solve(0,"",2*n);
+        solve(0,new StringBuilder(),2*n);
         return ans;
     }
 }
