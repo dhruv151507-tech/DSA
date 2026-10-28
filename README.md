@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhruv151507-tech/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruv151507-tech/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruv151507-tech/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruv151507-tech/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/dhruv151507-tech/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dhruv151507-tech/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruv151507-tech/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruv151507-tech/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruv151507-tech/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/dhruv151507-tech/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/dhruv151507-tech/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruv151507-tech/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruv151507-tech/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/dhruv151507-tech/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruv151507-tech/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
