@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/dhruv151507-tech/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/dhruv151507-tech/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0118-pascals-triangle](https://github.com/dhruv151507-tech/DSA/tree/main/0118-pascals-triangle/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruv151507-tech/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/dhruv151507-tech/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhruv151507-tech/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruv151507-tech/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv151507-tech/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dhruv151507-tech/DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/dhruv151507-tech/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/dhruv151507-tech/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhruv151507-tech/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
