@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/dhruv151507-tech/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/dhruv151507-tech/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/dhruv151507-tech/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/dhruv151507-tech/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/dhruv151507-tech/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhruv151507-tech/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dhruv151507-tech/DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/dhruv151507-tech/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhruv151507-tech/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruv151507-tech/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv151507-tech/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dhruv151507-tech/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/dhruv151507-tech/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dhruv151507-tech/DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dhruv151507-tech/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhruv151507-tech/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/dhruv151507-tech/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/dhruv151507-tech/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/dhruv151507-tech/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhruv151507-tech/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhruv151507-tech/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dhruv151507-tech/DSA/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
