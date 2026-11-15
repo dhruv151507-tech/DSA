@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/dhruv151507-tech/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/dhruv151507-tech/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhruv151507-tech/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/dhruv151507-tech/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruv151507-tech/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruv151507-tech/DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhruv151507-tech/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv151507-tech/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/dhruv151507-tech/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/dhruv151507-tech/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
