@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhruv151507-tech/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/dhruv151507-tech/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/dhruv151507-tech/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/dhruv151507-tech/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhruv151507-tech/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/dhruv151507-tech/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/dhruv151507-tech/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/dhruv151507-tech/DSA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhruv151507-tech/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/dhruv151507-tech/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/dhruv151507-tech/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
