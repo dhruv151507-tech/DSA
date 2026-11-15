@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/dhruv151507-tech/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruv151507-tech/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruv151507-tech/DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [1732-find-the-highest-altitude](https://github.com/dhruv151507-tech/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhruv151507-tech/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruv151507-tech/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhruv151507-tech/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv151507-tech/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/dhruv151507-tech/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/dhruv151507-tech/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/dhruv151507-tech/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
