@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/dhruv151507-tech/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruv151507-tech/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv151507-tech/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/dhruv151507-tech/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhruv151507-tech/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruv151507-tech/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhruv151507-tech/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/dhruv151507-tech/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/dhruv151507-tech/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/dhruv151507-tech/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/dhruv151507-tech/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv151507-tech/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/dhruv151507-tech/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhruv151507-tech/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/dhruv151507-tech/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/dhruv151507-tech/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/dhruv151507-tech/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv151507-tech/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhruv151507-tech/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhruv151507-tech/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
