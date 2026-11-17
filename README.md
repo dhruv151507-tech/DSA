@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruv151507-tech/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/dhruv151507-tech/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruv151507-tech/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv151507-tech/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/dhruv151507-tech/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruv151507-tech/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv151507-tech/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dhruv151507-tech/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv151507-tech/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/dhruv151507-tech/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/dhruv151507-tech/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruv151507-tech/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -366,4 +369,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/dhruv151507-tech/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 <!---LeetCode Topics End-->
